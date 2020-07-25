@@ -1,0 +1,32 @@
+footer {
+    color: white;
+    background: #ff5500 !important;
+}
+
+footer .contact li {
+    padding: 1rem !important;
+    font-size: 2rem;
+    text-align: center;
+    background: #ff5500 !important;
+}
+
+footer a:hover {
+    text-decoration: none;
+    color: black !important;
+}
+
+footer .bt-footer {
+    background: #0000003b;
+}
+
+footer .bt-footer span {
+    color: red;
+}
+
+footer .about-us a {
+    color: white;
+}
+
+footer .our-team a {
+    color: white;
+}

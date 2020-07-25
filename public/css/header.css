@@ -1,0 +1,166 @@
+body {
+    font-family: sans-serif;
+}
+
+header .user-but:hover>.dropdown-menu {
+    display: block;
+}
+
+header .dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+header .dropdown-hover:active {
+    pointer-events: auto;
+}
+
+header button:hover .dropdown-menu {
+    display: block;
+}
+
+.introduce-product .h3 {
+    color: #ff5500;
+}
+
+header .navbar-custom {
+    background-color: #ff5500 !important;
+}
+
+
+/* change the brand and text color */
+
+header .navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: white;
+    padding: 0.8rem 1rem;
+}
+
+
+/* change the link color and add padding for height */
+
+header .navbar-custom .navbar-nav .nav-link {
+    color: white;
+    padding: 1rem 1rem;
+}
+
+
+/* change the color of active or hovered links */
+
+header .navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: white;
+    background-color: #ee4400;
+    /* add background-color to active links */
+}
+
+header .navbar-custom {
+    background-color: #ff5500;
+}
+
+
+/* change the brand and text color */
+
+header .navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: white;
+}
+
+
+/* change the link color */
+
+header .navbar-custom .navbar-nav .nav-link {
+    color: white;
+    background-color: #ff5500;
+}
+#navbarsExample04{
+    background-color: #ff5500;
+    
+}
+#navbarsExample04 {
+    background-color: #ff5500;
+    margin-left: 50px;
+}
+
+
+/* change the color of active or hovered links */
+
+header .navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ffffff;
+}
+
+
+/* for dropdown only - change the color of droodown */
+
+header .navbar-custom .dropdown-menu {
+    background-color: #ff5500;
+}
+
+header .navbar-custom .dropdown-item {
+    color: #ffffff;
+}
+
+header .navbar-custom .dropdown-item:hover,
+.navbar-custom .dropdown-item:focus {
+    color: #333333;
+    background-color: rgba(255, 255, 255, .5);
+}
+
+header nav button {
+    background-color: #ff5500 !important;
+}
+
+header nav button a {
+    color: white !important;
+}
+
+header nav button a:hover {
+    color: black !important;
+}
+
+header .footpage_headtitle {
+    font-size: 20px;
+}
+
+header.footpage_link a:hover {
+    color: #551A8B;
+}
+
+header .modal-header {
+    padding: 9px 15px;
+    border-bottom: 1px solid #eee;
+    background-color: #ff5500;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.modal-backdrop {
+    z-index: 1;
+}
+
+header .setminheight {
+    min-height: 80vh;
+}
+
+header .badge-warning {
+    position: absolute !important;
+    top: 11% !important;
+}
+
+header form .form-control {
+    min-width: 25vw;
+}
+
+header .iconUser {
+    width: 75px;
+    height: 75px;
+}
+
+header .modal-header .close {
+    margin-top: -9px;
+    padding: 11px 17px;
+}

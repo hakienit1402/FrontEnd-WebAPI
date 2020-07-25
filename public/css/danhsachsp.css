@@ -1,0 +1,31 @@
+header .user-but:hover>.dropdown-menu {
+    display: block;
+}
+
+header .dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+header .dropdown-hover:active {
+    pointer-events: auto;
+}
+
+header button:hover .dropdown-menu {
+    display: block;
+}
+
+header .nav-item {
+    padding: 0px 10px;
+}
+
+header .navbar-expand-md {
+    background: #19b2b9 !important;
+}
+
+#contain-brand .logo-brand {
+    width: 20%;
+}
+
+header nav button {
+    background-color: #19b2b9 !important;
+}
